@@ -49,8 +49,8 @@ python manage.py runserver
 ## HOME PAGE
 ![](images/home.png)
 
-## HOME PAGE
+## PROFILE PAGE
 ![](images/profile.png)
 
-## HOME PAGE
+## NEW POST PAGE
 ![](images/new_post.png)
